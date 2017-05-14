@@ -1,2 +1,2 @@
 # Travelling-Salesman-Problem
-Programs written by me for metaheuristic course. 
+Programs wrote by me for metaheuristic course. 
